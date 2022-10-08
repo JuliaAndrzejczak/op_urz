@@ -1,0 +1,3 @@
+C:/Users/Aureliusz IV/CLionProjects/op_urz/cmake-build-debug/CMakeFiles/op_urz.dir
+C:/Users/Aureliusz IV/CLionProjects/op_urz/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aureliusz IV/CLionProjects/op_urz/cmake-build-debug/CMakeFiles/rebuild_cache.dir
